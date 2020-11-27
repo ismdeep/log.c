@@ -1,2 +1,5 @@
 # log.c
-Log.c based on 
+
+This project is based on https://github.com/rxi/log.c
+
+
